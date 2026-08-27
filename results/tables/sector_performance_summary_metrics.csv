@@ -1,0 +1,10 @@
+Sector,Companies,Sequences,MAE_Revenue,MAPE_Revenue,R2_Score,MAE_Margin
+Consumer Goods,116,812,460.0,8.75,0.897,1.54
+Energy,108,756,503.0,11.34,0.979,4.13
+Finance,113,791,286.0,11.05,0.972,1.62
+Healthcare,121,847,311.0,7.76,0.978,2.09
+Manufacturing,117,819,313.0,11.45,0.945,2.29
+Retail,106,742,155.0,9.11,0.977,1.51
+Technology,95,665,874.0,7.02,0.979,2.11
+Transportation,117,819,106.0,7.96,0.96,2.13
+Utilities,107,749,107.0,10.78,0.948,1.4

@@ -1,0 +1,10 @@
+# Ham ve sektorel veri setleri GitHub'a yuklenmiyor - erisim linki README'de verilecek
+data/raw/*.csv
+data/by_sector/*.csv
+!data/raw/.gitkeep
+!data/by_sector/.gitkeep
+
+# Python / Jupyter derleme artiklari
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
